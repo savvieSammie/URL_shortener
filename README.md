@@ -1,2 +1,2 @@
-# todo_app
-A simple To do app built with Django
+# URL_shortener
+A simple URL_shortener built with Django
